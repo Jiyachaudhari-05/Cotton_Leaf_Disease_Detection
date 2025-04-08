@@ -15,11 +15,10 @@ AgroShield is a project aimed at detecting cotton leaf diseases using advanced M
 
 ## 📸 Website UI
 
-
-
-![Picture1](Cotton_Leaf_Disease_Detection/assets/Screenshot_17-12-2024_132512_.jpeg)<br><br>
-![Picture1](Cotton_Leaf_Disease_Detection/assets/Screenshot_17-12-2024_13266_.jpeg)<br><br>
-
+![Picture1](Cotton_Leaf_Disease_Detection/Picture1.png)<br><br>
+![Picture1](Cotton_Leaf_Disease_Detection/Picture2.png)<br><br>
+![Picture1](Cotton_Leaf_Disease_Detection/Picture3.png)<br><br>
+![Picture1](Cotton_Leaf_Disease_Detection/Picture4.png)<br><br>
 
 
 
